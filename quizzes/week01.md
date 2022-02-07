@@ -34,7 +34,7 @@ the root of the page.
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
 ```css
  h1.main-title {
-   color : rgba(255, 210, 33, .75);
+   color : rgba(255, 210, 33, .75);.
  }
 ```
 <!-- enter you answer in the space below -->
